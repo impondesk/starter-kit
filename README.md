@@ -3,6 +3,8 @@
 ### spring-boot-application
 SpringBoot Microservices Starter
 
+### db-crud-operations
+
 ### elastic-search
 
 ### aws-integration
